@@ -1,0 +1,190 @@
+.top .logo{
+	height: 25px;
+	width: 40px;
+	margin: 20px;
+}
+.top .github-icon{
+	height: 30px;
+	width: 30px;
+	margin: 20px;
+}
+.top{
+	background-color: black;
+	color: white;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 50px;
+}
+.top-link{
+	color: white;
+}
+.black-heart{
+	height: 30px;
+	width: 40px;
+}
+.second{
+	display: flex;
+	font-size: 1.5em;
+	font-weight: 200;
+	text-align: center;
+	align-items: center;
+	justify-content: space-between;
+	height: 50px;
+}
+.second-ul li{
+	margin: 10px;
+}
+.second-ul li a{
+	text-decoration: none;
+	color: black;
+}
+.second-ul li a:hover{
+	color: lightgray;
+}
+.second-1{
+	display: flex;
+	align-items: center;
+	flex-shrink: 0;
+}
+.second-2 ul{
+	list-style: none;
+	display: flex;
+	flex-direction: row;
+	flex: 1;
+}
+.third{
+	display: flex;
+	align-items: center;
+}
+.third .search{
+	line-height: 2em;
+    width: 600px;
+    border-radius: 3px;
+}
+.third input{
+	line-height: 2em;
+    width: 200px;
+    border-radius: 3px;
+}
+#fourth{
+	background: url(./assets/b1.png);
+	height: 400px;
+	text-align: center;
+	color: white
+}
+#fourth h1{
+	font-weight: 800;
+	font-size: 5em;
+}
+#fourth p{
+	font-weight:200;
+	text-align: center;
+	align-items: center;
+}
+#fifth{
+	background: url(./assets/background2.png);
+	height: 400px;
+	text-align: center;
+	color: white
+}
+#fifth h1{
+	font-weight: 800;
+	font-size: 3em;
+}
+#fifth p{
+	font-weight:200;
+	text-align: center;
+	align-items: center;
+}
+#fifth div{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.a1{
+	background: red;
+	text-decoration:none;
+	color: white;
+	height: 60px;
+	width: 170px;
+	text-align: center;
+	font-size: 1.5em;
+}
+.a2{
+	background:pink;
+	text-decoration:none;
+	color: white;
+	height: 60px;
+	width: 170px;
+	text-align: center;
+	font-size: 1.5em;	
+	
+}
+.sixth{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align:center;
+	align-items: center;
+	margin-top: 40px;
+}
+.sixth h1{
+	font-weight: 800;
+	font-size: 2.4em;
+}
+.sixth p{
+	font-weight: 100;
+	font-size: 1.3em;
+}
+.seventh{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.seventh img{
+	border-radius: 50%;
+}
+.seventh a{
+	text-decoration:none;
+	color: black;
+	border-radius: 50%;
+	border-color: black;
+}
+.eighth{
+	background: url(./assets/background.png);
+	color: white;
+	height: 300px;
+}
+.eighth h1{
+	font-weight: 800;
+	font-size: 3em;
+	text-align: center;
+}
+.eighth p{
+	font-weight:200;
+	text-align: center;
+	align-items: center;
+}
+.nineth
+{
+	text-align: center;
+	font-size: 1.6em;
+}
+.tenth img{
+	height: 400px;
+	width: 270px;
+	align-content: center;
+	text-align: center;
+}
+.final
+{
+	display: flex;
+	text-align: center;
+	align-items: center;
+	justify-content: space-around;
+}
+.final li{
+	list-style: none;
+	font-size: 1.2em;
+}
